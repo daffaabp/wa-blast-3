@@ -1,0 +1,15 @@
+2025/05/20-15:10:54.819 5ee8 Reusing MANIFEST D:\Inovatif\projects\wa-blast\config\session\session\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/20-15:10:54.820 5ee8 Recovering log #6
+2025/05/20-15:10:54.830 5ee8 Reusing old log D:\Inovatif\projects\wa-blast\config\session\session\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000006.log 
+2025/05/20-15:11:30.438 5b78 Level-0 table #11: started
+2025/05/20-15:11:30.442 5b78 Level-0 table #11: 270566 bytes OK
+2025/05/20-15:11:30.444 5b78 Delete type=0 #6
+2025/05/20-15:11:30.445 5b78 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/05/20-15:11:30.445 5b78 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0d\x01\x02\x01\x16\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00e\x00r\x00v\x00e\x00r\x00_\x00k\x00e\x00y' @ 1711 : 1
+2025/05/20-15:11:30.445 5b78 Compacting 1@1 + 1@2 files
+2025/05/20-15:11:30.448 5b78 Generated table #12@1: 312 keys, 39380 bytes
+2025/05/20-15:11:30.448 5b78 Compacted 1@1 + 1@2 files => 39380 bytes
+2025/05/20-15:11:30.450 5b78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/20-15:11:30.450 5b78 Delete type=2 #8
+2025/05/20-15:11:30.450 5b78 Delete type=2 #11
+2025/05/20-15:11:30.451 5b78 Manual compaction at level-1 from '\x00\x0d\x01\x02\x01\x16\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00e\x00r\x00v\x00e\x00r\x00_\x00k\x00e\x00y' @ 1711 : 1 .. (end); will stop at (end)
